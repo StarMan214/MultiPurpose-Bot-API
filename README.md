@@ -1,4 +1,5 @@
-A Bot API with Multiple Features
+# MultiPurpose Bot-API
+ A Bot API with Multiple Features
 
 This Bot is Designed to Work With Telegram To Use this Bot in Telegram Follow The Steps Given Below :
 
